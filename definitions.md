@@ -1,4 +1,5 @@
-# Definition:
+# Definitions:
+*Below are some common Git terminology:*
 
 **Repository**:<br>
 A directory or storage space where your projects can live. Sometimes GitHub users shorten this to “repo.” 
@@ -17,7 +18,7 @@ Is essentially is a unique set of code changes with a unique name. Each reposito
 ![Branch example](./pictures/Branch.png)
 
 **Commit**:<br>
-Is an individual change to a file or set of files. When you make a commit to save your work, Git creates a unique ID ("SHA" or "hash") that allows you to keep record of the specific changes commited along with who made them and when.
+Is an individual change to a file or set of files. When you make a commit to save your work, Git creates a unique ID ("SHA" or "hash") that allows you to keep record of the specific changes committed along with who made them and when.
 ![Commit example](./pictures/Commit.png)
 
 **Merge**:<br>
@@ -27,3 +28,7 @@ Merging takes the changes from one branch (in the same repository or from a fork
 **Checkout**:<br>
 You can use git checkout on the command line to create a new branch, change your current working branch to a different branch, or even to switch to a different version of a file from a different branch with git checkout [branchname]  [path to file].
 ![Checkout example](./pictures/Checkout.webp)
+
+**Push**:<br>
+The git push command allows you to send (or push) the commits from your local branch in your local Git repository to the remote repository.
+![Commit example](./pictures/push.png)
