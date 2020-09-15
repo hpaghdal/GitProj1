@@ -1,0 +1,1 @@
+## How the usage of Git, Docker, Automated Testing, and Continuous Integration can improve the productivity and competitiveness of a company.
