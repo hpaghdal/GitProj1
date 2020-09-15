@@ -6,4 +6,4 @@
 
 [About gitFlow](https://github.com/hpaghdal/GitProj1/blob/master/aboutgitflow.md)
 
-
+[Git commands and terminology](https://github.com/hpaghdal/GitProj1/blob/master/definitions.md)
