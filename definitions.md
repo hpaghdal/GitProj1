@@ -10,7 +10,7 @@ Process of downloading an already presented git repository to your local system.
 ![Clone example](./pictures/Clone.png)
 
 **Fork**:<br>
-Is producing a personal copy of someone else's project. Forking also allows the "manager" to accept commits from any developer without giving them write access to the official codebase.
+This produces a personal copy of someone else's project. Forking also allows the "manager" to accept commits from any developer without giving them write access to the official codebase.
 ![Fork example](./pictures/fork.png)
 
 **Branch**:<br>
