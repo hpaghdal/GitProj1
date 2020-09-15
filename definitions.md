@@ -10,7 +10,7 @@ Process of downloading an already presented git repository to your local system.
 ![Clone example](./pictures/Clone.png)
 
 **Fork**:<br>
-Is producing a personal copy of someone else's project.
+Is producing a personal copy of someone else's project. Forking also allows the "manager" to accept commits from any developer without giving them write access to the official codebase.
 ![Fork example](./pictures/fork.png)
 
 **Branch**:<br>
@@ -31,4 +31,8 @@ You can use git checkout on the command line to create a new branch, change your
 
 **Push**:<br>
 The git push command allows you to send (or push) the commits from your local branch in your local Git repository to the remote repository.
-![Commit example](./pictures/push.png)
+![Push example](./pictures/push.png)
+
+**Pull**:<br>
+The git pull command fetches and downloads content from the remote repository and integrates changes into the local repository.
+![Pull example](./pictures/pull.png)
