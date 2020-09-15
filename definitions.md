@@ -25,5 +25,5 @@ Merging takes the changes from one branch (in the same repository or from a fork
 ![Merge example](./pictures/Merge.webp)
 
 **Checkout**:<br>
-You can use git checkout on the command line to create a new branch, change your current working branch to a different branch, or even to switch to a different version of a file from a different branch with git checkout [branchname] [path to file].
+You can use git checkout on the command line to create a new branch, change your current working branch to a different branch, or even to switch to a different version of a file from a different branch with git checkout [branchname]  [path to file].
 ![Checkout example](./pictures/Checkout.webp)
