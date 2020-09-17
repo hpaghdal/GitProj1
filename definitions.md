@@ -54,5 +54,6 @@ The git status command displays the state of the working directory and the stagi
 ![Status example](./pictures/Status.png)
 
 **Master Branch**: <br>
- is a naming convention for a branch. After cloning (downloading) a project from a remote server, the resulting local repository has a single local branch: the so-called "master" branch.
+ Is a naming convention for a branch. After cloning (downloading) a project from a remote server, 
+ the resulting local repository has a single local branch: the so-called "master" branch.
 ![Master Branch example](pictures/MasterBranch.png)
