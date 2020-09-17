@@ -40,3 +40,7 @@ The git pull command fetches and downloads content from the remote repository an
 **Remote Add**:<br>
 command on the terminal, in the directory your repository is stored at.
 ![Remote Add example](./pictures/remote.png)
+
+**Remove**:<br>
+Remove files matching pathspec from the index, or from the working tree and the index.
+![Remove example](./pictures/remove.png)
