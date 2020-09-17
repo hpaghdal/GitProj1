@@ -52,3 +52,7 @@ git status shows the state of the working directory and the staging area.
 **Status**:<br>
 The git status command displays the state of the working directory and the staging area.
 ![Status example](./pictures/status.png)
+
+**Master Branch**: <br>
+ is a naming convention for a branch. After cloning (downloading) a project from a remote server, the resulting local repository has a single local branch: the so-called "master" branch.
+![Master Branch example](./pictures/Master Branch.png)
