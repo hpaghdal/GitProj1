@@ -36,3 +36,7 @@ The git push command allows you to send (or push) the commits from your local br
 **Pull**:<br>
 The git pull command fetches and downloads content from the remote repository and integrates changes into the local repository.
 ![Pull example](./pictures/pull.png)
+
+**Remote Add**:<br>
+command on the terminal, in the directory your repository is stored at.
+![Remote Add example](./pictures/remote.png)
