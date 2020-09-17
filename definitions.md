@@ -43,4 +43,16 @@ command on the terminal, in the directory your repository is stored at.
 
 **Remove**:<br>
 Remove files matching pathspec from the index, or from the working tree and the index.
-![Remove example](./pictures/remove.png)
+![Remove example](./pictures/remove.webp)
+
+**Show**:<br>
+git status shows the state of the working directory and the staging area.
+![Show example](./pictures/Show.png)
+
+**Status**:<br>
+The git status command displays the state of the working directory and the staging area.
+![Status example](./pictures/status.png)
+
+**Master Branch**: <br>
+ is a naming convention for a branch. After cloning (downloading) a project from a remote server, the resulting local repository has a single local branch: the so-called "master" branch.
+![Master Branch example](./pictures/Master Branch.png)
