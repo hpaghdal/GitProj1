@@ -48,3 +48,7 @@ Remove files matching pathspec from the index, or from the working tree and the 
 **Show**:<br>
 git status shows the state of the working directory and the staging area.
 ![Show example](./pictures/Show.png)
+
+**Status**:<br>
+The git status command displays the state of the working directory and the staging area.
+![Status example](./pictures/status.png)
