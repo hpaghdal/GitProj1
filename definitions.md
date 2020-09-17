@@ -43,4 +43,8 @@ command on the terminal, in the directory your repository is stored at.
 
 **Remove**:<br>
 Remove files matching pathspec from the index, or from the working tree and the index.
-![Remove example](./pictures/remove.png)
+![Remove example](./pictures/remove.webp)
+
+**Show**:<br>
+git status shows the state of the working directory and the staging area.
+![Show example](./pictures/Show.png)
