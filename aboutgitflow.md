@@ -1,4 +1,5 @@
 # Introducing Gitflow:
+
 Gitflow is a branching model for Git, created by Vincent Driessen. It has attracted a lot of attention because it is very well suited to collaboration and scaling the development team.
 
 **There are different types of key benefits listed below.**
