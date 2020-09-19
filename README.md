@@ -21,7 +21,7 @@
 ### ChangeLog: 
 *Below is a high level overview of the changelog for this project, to see all commits click [here](https://github.com/hpaghdal/GitProj1/commits/master?before=24cf16388cae757fd2fa381d6f17c04bfd73ebb6+35&branch=master):*
 
-####Hiren:
+#### Hiren:
 * Initial Commit - Created Repo
 * Feature: Added definitions page
 * Feature: Added repository definition and picture.
@@ -32,8 +32,9 @@
 * Feature: Added info into first link about git, CI, CD, and Docker
 * Fix: Updated "status" photo link
 * Fix: Updated "Master Branch" photo bug
+* Feature: Added Changelog info to readme file
 
-####Utsav:
+#### Utsav:
 * Feature: Add definition and pictures
 * Feature: Added Fork definition + Photo
 * Feature: Added Branch definition + Photo
