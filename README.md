@@ -19,7 +19,7 @@
 <hr>
 
 ### ChangeLog: 
-*Below is a high level overview of the changelog for this project, to see all commits click [here](https://github.com/hpaghdal/GitProj1/commits/master?before=24cf16388cae757fd2fa381d6f17c04bfd73ebb6+35&branch=master):*
+*Below is a high level overview of the changelog for this project, to see all commits click [here](https://github.com/hpaghdal/GitProj1/commits/master):*
 
 #### Hiren:
 * Initial Commit - Created Repo
